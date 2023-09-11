@@ -21,6 +21,17 @@ etc...
 - Utiliza técnicas de regularización para mejorar el desempeño del modelo
 
 
+Los detalles especificos de la implementacion del proyecto asi como la descripcion de los elementos a utilizar y un analisis detallado de las herramientas utilizadas, se pueden encontrar el archivo [README.md](machine_learning/README.md).
+
+### Entregables
+
+- `Analisis del modelo/`
+  - `Modelo de aprensizaje automatico para analisis de datos.pdf`: Doumento PDF con la evidencia de analisis del la implementacion de Machine Learning
+  - `README.md`: Documentación acerca del entregable y el contenido de la carpeta analisis del modelo
+
+
+
 *En el modulo del reto*
 - Explica como la solución cumple leyes, normas y principios éticos, de la industria o el ambiente del reto.
 - Explica en su repositorio cual es la normatividad correspondiente del reto o socio formador.
+
