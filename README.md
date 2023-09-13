@@ -25,6 +25,7 @@ Los detalles especificos de la implementacion del proyecto asi como la descripci
 
 ### Entregables
 
+
 - `Analisis del modelo/`
   - `Modelo de aprensizaje automatico para analisis de datos.pdf`: Doumento PDF con la evidencia de analisis del la implementacion de Machine Learning
   - `README.md`: Documentación acerca del entregable y el contenido de la carpeta analisis del modelo
