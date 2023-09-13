@@ -24,7 +24,8 @@ etc...
 Los detalles especificos de la implementacion del proyecto asi como la descripcion de los elementos a utilizar y un analisis detallado de las herramientas utilizadas, se pueden encontrar el archivo [README.md](machine_learning/README.md).
 
 ### Entregables
-
+Procesamiento_análisis_RETO_Equipo1
+- `Procesamiento_análisis_RETO_Equipo1/`
 
 - `Analisis del modelo/`
   - `Modelo de aprensizaje automatico para analisis de datos.pdf`: Doumento PDF con la evidencia de analisis del la implementacion de Machine Learning
