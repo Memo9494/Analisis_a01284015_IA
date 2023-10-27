@@ -1,6 +1,9 @@
 # Implementacion_IA_a01284015
 En este repositorio tendré mis entregas de implementación de la clase de inteligencia artificial
 
+
+En la carpeta de Seguridad se puede encontrar el entregable del primer avance de seguridad del bloque Momento de Retroalimentación: Reto Privacidad y Seguridad de los Datos (Portafolio Análisis).
+
 Se van a trabajar los siguientes indicadores:
 
 *En el modulo de estadistica*
